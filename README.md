@@ -1,4 +1,6 @@
 ### Welcome to Alex's Github (since Mar. 2023)
 
-- 🍇 I'm currently teaching English at a high school
-- 🌱 I’m currently learning Phython coding
+🍇 Currently teaching English at the high school level.
+🍇 Actively learning Python programming to enhance research capabilities.
+🍇 Hold a Master’s degree in English Education from Gyeongsang National University (GNU).
+🍇 Pursuing a Ph.D. in English Education at Gyeongsang National University.
